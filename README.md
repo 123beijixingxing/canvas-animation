@@ -1,2 +1,30 @@
 # canvas-animation
- 使用canvas 实现 gif 动画，支持网络图片，本地图片路径，支持图片预加载完开始播放。 只要功能：顺序播放，倒序播放，循环播放，暂停播放，开始播放（支持重新播放，暂停位置开始播放），跳转到第几帧图片播放，销毁动画事件，支持可选CANVAS画布模式还是IMG图片模式，用于兼容不同浏览器客户端环境
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
